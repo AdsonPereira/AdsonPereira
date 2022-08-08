@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @AdsonPereira
-- 👀 I’m interested in evolving my skills as a developer
-- 🌱 I’m currently learning Html, Css and Javascript
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Olá! Eu sou @AdsonPereira
+- 📚 Estou evoluindo minhas habilidades de desenvolvimento WEB.
+- 🌱 Atualmente estou estudando Javascript e React.
+- 💞️ Procuro colaborar com meus conhecimentos, habilidades e experiência.
+- 📫 Como me encontrar: linkedin.com/in/adsonpereira
 
 <!---
 AdsonPereira/AdsonPereira is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
