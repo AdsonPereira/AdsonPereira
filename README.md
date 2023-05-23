@@ -1,6 +1,6 @@
 - 👋 Olá! Eu sou @AdsonPereira
 - 📚 Estou evoluindo minhas habilidades de desenvolvimento WEB.
-- 🌱 Atualmente estou estudando Javascript.
+- 🌱 Atualmente estou estudando a linguagem Javascript e o framework Angular.
 - 💞️ Procuro colaborar com meus conhecimentos, habilidades e experiência.
 - 📫 Como me encontrar: linkedin.com/in/adsonpereira
 
