@@ -8,7 +8,7 @@
 
 📫 Você pode me encontrar em:
 - [LinkedIn](https://www.linkedin.com/in/adsonpereira)
-- 📧 adson@example.com
+- 📧 adsonleandropersi@gmail.com
 
 ## 🛠️ Tecnologias e Ferramentas
 
