@@ -22,7 +22,7 @@
 ### Back-end
 ![PHP](https://img.shields.io/badge/-PHP-black?style=flat-square&logo=php)
 ![Laravel](https://img.shields.io/badge/-Laravel-black?style=flat-square&logo=laravel)
-![Node.js](https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=node.js)
+![Node.js](https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=nodedotjs)
 
 ### Banco de Dados
 ![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
