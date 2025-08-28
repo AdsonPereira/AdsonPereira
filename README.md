@@ -12,10 +12,20 @@
 
 ## 🛠️ Tecnologias e Ferramentas
 
+### Front-end
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
+![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
 ![Angular](https://img.shields.io/badge/-Angular-black?style=flat-square&logo=angular)
-![HTML5](https://img.shields.io/badge/-HTML5-black?style=flat-square&logo=html5)
-![CSS3](https://img.shields.io/badge/-CSS3-black?style=flat-square&logo=css3)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-black?style=flat-square&logo=bootstrap)
+![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-black?style=flat-square&logo=tailwindcss)
+
+### Back-end
+![PHP](https://img.shields.io/badge/-PHP-black?style=flat-square&logo=php)
+![Laravel](https://img.shields.io/badge/-Laravel-black?style=flat-square&logo=laravel)
+![Node.js](https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=node.js)
+
+### Banco de Dados
+![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
 
 ## 📈 GitHub Stats
 
