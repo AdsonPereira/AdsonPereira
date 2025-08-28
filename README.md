@@ -2,7 +2,7 @@
 
 🔭 Desenvolvedor Front-end graduado em Análise e Desenvolvimento de Sistemas.
 
-🌱 Atualmente, estou aprimorando minhas habilidades em JavaScript e Angular.
+🌱 Atualmente, estou aprimorando minhas habilidades em JavaScript, React, Angular e explorando o desenvolvimento back-end com Node.js, PHP e Laravel.
 
 💬 Estou aberto a colaborar em projetos open-source e aprender com a comunidade.
 
