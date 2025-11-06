@@ -40,4 +40,4 @@
 - [LandingPage Isabella Lyra MakeUP](https://github.com/AdsonPereira/site-de-maquiadora)
 - [Blog (Angular)](https://github.com/AdsonPereira/angular-blog).
 - [Currículo](https://github.com/AdsonPereira/cv)
-- [Loja Ecommerce (React + Vite + Node.js) (https://github.com/AdsonPereira/projeto-react2)
+- [Loja Ecommerce (React + Vite + Node.js)](https://github.com/AdsonPereira/projeto-react2)
