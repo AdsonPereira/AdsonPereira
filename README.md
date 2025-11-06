@@ -1,6 +1,6 @@
 # Olá, eu sou o Adson Pereira 👋
 
-🔭 Desenvolvedor Front-end graduado em Análise e Desenvolvimento de Sistemas.
+🔭 Desenvolvedor graduado em Análise e Desenvolvimento de Sistemas.
 
 🌱 Atualmente, estou aprimorando minhas habilidades em JavaScript, React, Angular e explorando o desenvolvimento back-end com Node.js, PHP e Laravel.
 
