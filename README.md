@@ -34,9 +34,10 @@
 
 ## 📌 Projetos em Destaque
 
-- [Calculadora-Javascript](https://github.com/AdsonPereira/Calculadora-Javascript)
-- [Formulario](https://github.com/AdsonPereira/Formulario)
-- [angular-blog](https://github.com/AdsonPereira/angular-blog).
-- [site-de-maquiadora](https://github.com/AdsonPereira/site-de-maquiadora)
+- [Calculadora (Javascript)](https://github.com/AdsonPereira/Calculadora-Javascript)
+- [Formulario (Javascript)](https://github.com/AdsonPereira/Formulario)
+- [Pokedex (Javascript)](https://github.com/AdsonPereira/js-developer-pokedex)
+- [LandingPage Isabella Lyra MakeUP](https://github.com/AdsonPereira/site-de-maquiadora)
+- [Blog (Angular)](https://github.com/AdsonPereira/angular-blog).
 - [Currículo](https://github.com/AdsonPereira/cv)
-- [Pokedex](https://github.com/AdsonPereira/js-developer-pokedex)
+- [Loja Ecommerce (React + Vite + Node.js) (https://github.com/AdsonPereira/projeto-react2)
