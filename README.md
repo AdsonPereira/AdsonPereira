@@ -37,7 +37,7 @@
 - [Calculadora (Javascript)](https://github.com/AdsonPereira/Calculadora-Javascript)
 - [Formulario (Javascript)](https://github.com/AdsonPereira/Formulario)
 - [Pokedex (Javascript)](https://github.com/AdsonPereira/js-developer-pokedex)
-- [LandingPage Isabella Lyra MakeUP](https://github.com/AdsonPereira/site-de-maquiadora)
+- [LandingPage Isabella Lyra MakeUP](https://isabellalyra.web.app/)
 - [Blog (Angular)](https://github.com/AdsonPereira/angular-blog).
 - [Currículo](https://github.com/AdsonPereira/cv)
 - [Loja Ecommerce (React + Vite + Node.js)](https://github.com/AdsonPereira/projeto-react2)
