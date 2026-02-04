@@ -2,8 +2,13 @@
 
 💻 Desenvolvedor de Software com foco em aplicações web.  
 Graduado em Análise e Desenvolvimento de Sistemas e em constante evolução prática através de projetos próprios.
+Possuo conhecimentos em desenvolvimento web, com foco na criação e manutenção de aplicações utilizando HTML, CSS e JavaScript (ES6+). Tenho experiência prática com Angular e React, trabalhando com componentização, rotas, consumo de APIs REST e organização de código.
+Atuo também no desenvolvimento fullstack em projetos próprios, utilizando Node.js e PHP (básico), implementando CRUD, integrando aplicações com MySQL e conectando front-end e back-end de forma funcional.
 
-Atuo principalmente no desenvolvimento **Front-end e Fullstack Júnior**, criando interfaces interativas, integrando APIs e estruturando aplicações completas do cliente ao servidor.
+Utilizo Git e GitHub para versionamento de código e possuo noções de TypeScript, boas práticas de desenvolvimento, responsividade, usabilidade (UX) e SEO on-page. Tenho facilidade para aprender, resolver problemas e evoluir tecnicamente em ambientes colaborativos.
+
+
+
 
 ---
 
@@ -44,20 +49,23 @@ Atuo principalmente no desenvolvimento **Front-end e Fullstack Júnior**, criand
 
 | Projeto | Descrição | Tecnologias |
 |-------|------|------|
+| [E-commerce](https://github.com/AdsonPereira/projeto-react2) | Aplicação fullstack com integração API | React + Node |
+| [Projeto Laravel](https://github.com/AdsonPereira/Projeto-Laravel) | API/back-end com estrutura MVC e operações CRUD | PHP + Laravel + MySQL |
+| [Blog Angular](https://github.com/AdsonPereira/angular-blog) | Estrutura SPA com rotas e componentes | Angular |
+| [Pokedex](https://github.com/AdsonPereira/js-developer-pokedex) | Consumo de API externa | JS + API |
+| [ABN Site](https://github.com/AdsonPereira/Abn-site) | Website institucional desenvolvido com HTML, CSS e JavaScript, focado em estruturação de layout, responsividade e organização de conteúdo | HTML + CSS + JavaScript |
+| [Landing Page](https://isabella-lyra-makeup.web.app/) | Página responsiva de apresentação | HTML + CSS |
+| [Formulário](https://github.com/AdsonPereira/Formulario) | Validação e tratamento de dados | JS |
 | [Calculadora](https://github.com/AdsonPereira/Calculadora-Javascript) | Operações matemáticas e manipulação do DOM | JS |
 | [Formulário](https://github.com/AdsonPereira/Formulario) | Validação e tratamento de dados | JS |
-| [Pokedex](https://github.com/AdsonPereira/js-developer-pokedex) | Consumo de API externa | JS + API |
-| [Landing Page](https://isabella-lyra-makeup.web.app/) | Página responsiva de apresentação | HTML + CSS |
-| [Blog Angular](https://github.com/AdsonPereira/angular-blog) | Estrutura SPA com rotas e componentes | Angular |
-| [E-commerce](https://github.com/AdsonPereira/projeto-react2) | Aplicação fullstack com integração API | React + Node |
 | [Currículo](https://github.com/AdsonPereira/cv) | Página de apresentação profissional | Web |
 
 ---
 
 ## 📊 Estatísticas
 
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=AdsonPereira&show_icons=true&theme=tokyonight)
-![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=AdsonPereira&layout=compact&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AdsonPereira&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AdsonPereira&layout=compact&theme=tokyonight&langs_count=8)
 
 ---
 
