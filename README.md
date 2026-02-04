@@ -2,13 +2,8 @@
 
 💻 Desenvolvedor de Software com foco em aplicações web.  
 Graduado em Análise e Desenvolvimento de Sistemas e em constante evolução prática através de projetos próprios.
-Possuo conhecimentos em desenvolvimento web, com foco na criação e manutenção de aplicações utilizando HTML, CSS e JavaScript (ES6+). Tenho experiência prática com Angular e React, trabalhando com componentização, rotas, consumo de APIs REST e organização de código.
-Atuo também no desenvolvimento fullstack em projetos próprios, utilizando Node.js e PHP (básico), implementando CRUD, integrando aplicações com MySQL e conectando front-end e back-end de forma funcional.
 
-Utilizo Git e GitHub para versionamento de código e possuo noções de TypeScript, boas práticas de desenvolvimento, responsividade, usabilidade (UX) e SEO on-page. Tenho facilidade para aprender, resolver problemas e evoluir tecnicamente em ambientes colaborativos.
-
-
-
+Atuo principalmente no desenvolvimento **Front-end e Fullstack Júnior**, criando interfaces interativas, integrando APIs e estruturando aplicações completas do cliente ao servidor.
 
 ---
 
